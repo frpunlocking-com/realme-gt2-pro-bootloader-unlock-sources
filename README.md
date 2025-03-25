@@ -12,7 +12,7 @@ Realme GT2 Pro RMX33300, and RMX3301 are new 2025 methods of unlocking the bootl
 
 [Password for unpacking files in the position labeled with GT 2 Pro RMX330*](https://frpunlocking.com/diy-unlock/realme-bootloader-unlock/)
 
-The preferred region to unlock the bootloader is China RMX3300, which is firmware labeled with an "CN" tag at the end of the filename.  Multiparts are compressed with Win-Rar but can be unpacked into a single zip file (without underscore at the end of filename "_") on Android with any Archive Manager with password-protected zip archives support and 7-zip on Windows. [Download here](https://github.com/frpunlocking-com/realme-gt2-pro-bootloader-unlock-sources/releases/tag/1.0-BL-2025)
+The preferred region to unlock the bootloader is China RMX3300 Android 12, which is firmware labeled with an "CN" tag at the end of the filename.  Multiparts are compressed with Win-Rar but can be unpacked into a single zip file (without underscore at the end of filename "_") on Android with any Archive Manager with password-protected zip archives support and 7-zip on Windows. [Download here](https://github.com/frpunlocking-com/realme-gt2-pro-bootloader-unlock-sources/releases/tag/1.0-BL-2025)
 
 ## [YouTube Channel](https://www.youtube.com/@FRPUnlocking_com)
 
