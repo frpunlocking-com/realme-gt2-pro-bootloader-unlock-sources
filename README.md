@@ -4,7 +4,7 @@
 
 More info and sources how to unlock bootloader on Realme GT 2 Pro in 2025 at [FRP Unlocking](https://frpunlocking.com)
 
-Realme GT2 Pro RMX33300, and RMX3301 are new 2025 methods of unlocking the bootloader with official firmware by changing regions of a target device.
+Realme GT2 Pro RMX3330, and RMX3301 are new 2025 methods of unlocking the bootloader with official firmware by changing regions of a target device.
 
 [How to switch the region with locked bootloader of Realme Mobile](https://frpunlocking.com/change-the-region-of-a-realme-device-with-locked-bootloader/)
 
