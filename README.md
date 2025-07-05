@@ -16,6 +16,12 @@ The preferred region to unlock the bootloader is China RMX3300 Android 12, which
 
 ## [YouTube Channel](https://www.youtube.com/@FRPUnlocking_com)
 
+## Warranty & Liability Disclaimer
+
+Are you device owner and... your warranty is still valid?
+
+I am not responsible if you brick your device, kill your SD card, install viruses, burn the battery, trigger thermonuclear war, or lose your job because the alarm app failed. Please research any features included in this software **before flashing it! You must be the rightful owner of the device you are modifying and have the legal right to alter its software.**. You are choosing to make these strong modifications on your device, and if you point the finger at me for messing up your device, I will laugh at you.
+
 ## LICENSE
 
 2025 &copy; [Pawel Potacki](https://potacki.com) &ndash; Available under the MIT license, see [LICENSE](LICENSE).
